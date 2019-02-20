@@ -1,0 +1,36 @@
+.card-img-top {
+  max-width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+}
+
+#titolo{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #51c93c;
+  border-color: #51c93c;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 10%;
+  padding-left: 10%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#errorePassword{
+    color: rgb(255,0,0);
+}
+
+#erroreUser{
+    color: rgb(255,0,0);
+}
+
+#conferma{
+    background-color:  rgb(255,0,0);
+}
